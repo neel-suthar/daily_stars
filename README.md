@@ -2,13 +2,13 @@
 
 ```bash
 # clone repository
-https://github.com/Tpatel13/Developer-Connecter
+https://github.com/neel-suthar/daily_stars.git
 
 # Install dependencies
-cd dev-connector && npm install
+cd daily_stars && npm install
 
-# create a .env file in root of your project
-touch .env
+# Run using following command
+npm start
 ```
 
 ## Available Scripts
