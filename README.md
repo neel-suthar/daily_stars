@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Quick Start
+
+```bash
+# clone repository
+https://github.com/Tpatel13/Developer-Connecter
+
+# Install dependencies
+cd dev-connector && npm install
+
+# create a .env file in root of your project
+touch .env
+```
 
 ## Available Scripts
 
